@@ -175,9 +175,9 @@ ${readmore}
  • ${prefix}sewa *add/del*
  
  *THANKS TO*
- ➢ Christian ID
- ➢ Nc Tech
- ➢ Irfan / Riyan
-➢ Gorge_
+
+
+
+
 `
 }
