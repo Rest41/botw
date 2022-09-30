@@ -1,17 +1,17 @@
 {
-  "ownerNumber": ["6285921165857@s.whatsapp.net"],
-  "ownerName": ["Christian ID"],
-  "botName": "Hitomi Store",
-  "buttonName": "Youtube Official",
-  "buttonLink": "https://youtube.com/c/ChristianID99",
-  "buttonName2": "Instagram",
-  "buttonLink2": "https://instagram.com/chris.tianid",
+  "ownerNumber": ["6283866284190@s.whatsapp.net"],
+  "ownerName": ["Kijang2"],
+  "botName": "Kijang1",
+  "buttonName": "Whatsapp",
+  "buttonLink": "wa.me/6283866284190",
+  "buttonName2": "Grupwa",
+  "buttonLink2": "https://chat.whatsapp.com/E0C100cRaXwCzWsP89TifP",
   "sessionName": "session",
   "pathimg": "./media/hitomi.jpg",
   "gamewaktu": 60,
   "limitCount": 10,
   "gcount": {
 	"prem": 99999,
-	"user": 10
+	"user": 100
   }
 }
